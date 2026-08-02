@@ -1,0 +1,23 @@
+{
+	"required": true,
+	"package": "plasmapuffs.bindinghands.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"InventoryMixin",
+		"KeyMappingMixin"
+	],
+	"server": [
+		"ServerGamePacketListenerImplMixin"
+	],
+	"mixins": [
+		"AbstractContainerMenuMixin",
+		"EquippableMixin",
+		"PlayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
