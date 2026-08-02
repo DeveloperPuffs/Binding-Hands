@@ -8,8 +8,7 @@
 		"PlasmaPuffs"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/DeveloperPuffs/Binding-Hands"
 	},
 	"license": "MIT",
 	"icon": "assets/binding-hands/icon.png",
